@@ -1,5 +1,4 @@
-# kube-nginx-letsencrypt
+Obtain and install Let's Encrypt certificates for Kubernetes Ingresses on rpi
 
-Obtain and install Let's Encrypt certificates for Kubernetes Ingresses
+docker image: `micheledaros/kube-nginx-letsencrypt-armv8`
 
-https://hub.docker.com/r/sjenning/kube-nginx-letsencrypt/
